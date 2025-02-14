@@ -1,0 +1,1 @@
+This repository demonstrates a seemingly intermittent issue with nested routes in React Router v6. The main App component renders correctly, but child routes (nested within parent routes) fail to render consistently. This is not easily reproducible, and may occur infrequently even with minimal code changes. This repository contains both the buggy code and a potential solution.
